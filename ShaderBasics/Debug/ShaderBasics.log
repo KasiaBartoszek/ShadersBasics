@@ -1,0 +1,19 @@
+﻿  pch.cpp
+  AShader.cpp
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\AShader.h(3,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  FragmentShader.cpp
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\AShader.h(3,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  GPUProgram.cpp
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\GPUProgram.h(2,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Scene.cpp
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\Scene.h(2,10): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+  ShaderBasics.cpp
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\Scene.h(2,10): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+  VertexGenerator.cpp
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\VertexGenerator.cpp(8,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\VertexGenerator.cpp(8,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\VertexGenerator.cpp(11,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\VertexGenerator.cpp(12,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  VertexShader.cpp
+C:\Users\aklin\OneDrive\PolSl\s6 GK\lab12-SHA\ShaderBasics\ShaderBasics\AShader.h(3,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
